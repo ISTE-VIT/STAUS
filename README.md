@@ -52,12 +52,12 @@ For further details visit [who.int](https://www.who.int/health-topics/coronaviru
    - There is no for sure treatment of corona discovered by scientists
    - Corona is more severe in people 60+yrs or with health conditions like lung or heart disease, diabetes or conditions that affect their immune system.​
   
-  ----------------------
   
 ## Contributors
 - <a href="https://www.linkedin.com/in/rohit-nandi-5707a4207/" target="_blank">Rohit Nandi</a>
 - <a href="https://www.linkedin.com/in/khushboo-nijhawan-745682201" target="_blank">Khushboo Nijhawan</a>
 - <a href="" target="_blank">Gautam Karthik</a>
+- ---
   <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
 </p>
