@@ -19,7 +19,7 @@ Sanitization & temperature based automated unlocking system is a 3 level smart e
 - Yolo v3
 - Open CV
 - Fritzing
-- ---
+
 ## User Flow 📃
 <h3 align="center">
 <img src="https://64.media.tumblr.com/3b606877e8e9f52413f1c29857c4c55c/95d0d9fc44171561-d7/s640x960/34b4591ac8e711951b8f692c5387848ac6908261.png"></a>
@@ -27,7 +27,7 @@ Sanitization & temperature based automated unlocking system is a 3 level smart e
 User is required to fulfill each parameter if not fulfilled it directs them to do so for the entrance to be unlocked.
 The equipment also has a sanitizer dispenser and mask storage area which can be refilled and requires least movement of the user.
 
----
+
 
 ## Circuit Diagram
 <h3 align="center">
