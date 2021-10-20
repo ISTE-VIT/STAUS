@@ -34,6 +34,9 @@ The equipment also has a sanitizer dispenser and mask storage area which can be 
 <img src="https://64.media.tumblr.com/2877be26af8dd089f06e845b47735ed2/5a2be577dcd808e5-d0/s640x960/2d537b814eeb62072a3c1542a84f51186a7dfa96.png"></a>
   </h3>
   
+## Demo Video 
+tinyurl.com/STAUSproject-demo-video
+  
 ## Research
 COVID-19 is a contagious disease caused by novel coronovirus with no full proof treatment discovered yet by the scientists. Senior citizens and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness. However, anyone can get sick with COVID-19 and become seriously ill or die.And being aware of the unorgainzed disturbution sectors like retail stores there is a need of precaution to run stores in a systematic manner to avoid unretrievable economic loses and prevention from diseases like covid in the future.
 For further details visit [who.int](https://www.who.int/health-topics/coronavirus#tab=tab_1)
